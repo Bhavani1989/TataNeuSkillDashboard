@@ -93,7 +93,7 @@ Transaction details including revenue and customer data.
 - **Bar Chart**: Top 10 Products by Sales
 - **Bar Chart**: Top 10 Products by Profit
 
-**Filters/Slicers**:
+### 🧮 **Filters/Slicers**:
 - Year
 - Region
 - Product Category
@@ -122,7 +122,7 @@ This dashboard provides insights into **top profit-generating countries and high
 - **Line Chart**: YoY % Change in Profit
 - **Line Chart**: YoY % Change in Orders
 
-**Filters/Slicers**:
+### 🧮 **Filters/Slicers**:
 - Year
 - Country
 - Category
@@ -163,7 +163,7 @@ This tab gives a detailed breakdown of yearly trends and category-level insights
 - **Horizontal Bar Chart**: Top Sellers by Total Sales
 - **Horizontal Bar Chart**: Total Profit by Employee Name
 
-**Filters/Slicers**:
+### 🧮 **Filters/Slicers**:
 - Year (Radio buttons: 2020, 2021, 2022, 2023)
 
 ![image alt](https://github.com/Bhavani1989/TataNeuSkillDashboard/blob/d45df698fe374cee51cd3f96c8ec1d360b4d97a6/Employee_performane.png)
