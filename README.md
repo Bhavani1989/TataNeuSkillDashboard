@@ -127,6 +127,8 @@ This dashboard provides insights into **top profit-generating countries and high
 
 This tab gives a detailed breakdown of yearly trends and category-level insights.
 
+![image alt](https://github.com/Bhavani1989/TataNeuSkillDashboard/blob/f41f6a957c4e7d50cddbfc167ad4971920ad9779/Sales_performance.png)
+
 ### 📈 Visual Components
 
 #### 1. **YoY % Change in Sales**
