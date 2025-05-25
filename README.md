@@ -224,14 +224,6 @@ This section gives a **product-level profitability and sales snapshot**.
 
 ---
 
-## 🧩 Data Assumptions
-
-- Simulated and anonymized sales and profit data from **2020 to 2023**
-- Monthly granularity with segmentation by **category**, **subcategory**, **region**, and **customer segment**
-- Internal identifiers and structures mimic real-world business systems
-
----
-
 ## 💡 Technologies Used
 
 - **Microsoft Power BI** — Data modeling, visualization, and interactivity
