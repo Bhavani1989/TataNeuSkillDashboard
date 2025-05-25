@@ -162,6 +162,7 @@ This tab gives a detailed breakdown of yearly trends and category-level insights
 **Filters/Slicers**:
 - Year (Radio buttons: 2020, 2021, 2022, 2023)
 
+![image alt](https://github.com/Bhavani1989/TataNeuSkillDashboard/blob/d45df698fe374cee51cd3f96c8ec1d360b4d97a6/Employee_performane.png)
 
 This tab showcases **individual contributions** to sales and profit, enabling recognition of top performers.
 
