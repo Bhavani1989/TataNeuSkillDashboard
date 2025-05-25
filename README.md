@@ -110,7 +110,9 @@ This dashboard provides insights into **top profit-generating countries and high
 #### Additional Country Profit Breakdown  
 - **South Africa:** **154** profit  
 - **Japan:** **57** profit  
-- **Sweden:** **56** profit  
+- **Sweden:** **56** profit
+
+---
 
 ## 📊 Sales Performance Dashboard
 
