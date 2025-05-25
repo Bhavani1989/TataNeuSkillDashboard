@@ -200,9 +200,10 @@ This tab showcases **individual contributions** to sales and profit, enabling re
 - Year (Radio buttons)
 - Region (Dropdown)
 - Product Category (optional)
-
-
+- 
 This section gives a **product-level profitability and sales snapshot**.
+
+![image alt](https://github.com/Bhavani1989/TataNeuSkillDashboard/blob/4c22e83808342642086d53a44d016b377071845d/Product_info.png)
 
 ### 🔍 Chart: Total Sales vs. Total Profit (Bubble Plot)
 - Each dot represents a product.
