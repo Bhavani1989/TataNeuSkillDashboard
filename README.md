@@ -100,6 +100,8 @@ Transaction details including revenue and customer data.
 
 This dashboard provides insights into **top profit-generating countries and high-performing products**.
 
+![image alt](https://github.com/Bhavani1989/TataNeuSkillDashboard/blob/da863b8622da8917930858c1d9737e36f7d11ac7/Top_Countries%26Top_products.png)
+
 #### Top 3 Countries by Profit  
 - **India:** **711** profit  
 - **Australia:** **665** profit  
