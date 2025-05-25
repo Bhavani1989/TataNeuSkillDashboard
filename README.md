@@ -55,7 +55,7 @@ Transaction details including revenue and customer data.
 - **Area & Line Chart**: Monthly Sales and Profit trend
 - **Bar Chart**: Profit by Subcategory
 
-**Filters/Slicers**:
+### 🧮 **Filters/Slicers**:
 - Year (2020–2023)
 - Country
 - Segment
