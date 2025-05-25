@@ -231,3 +231,13 @@ This section gives a **product-level profitability and sales snapshot**.
 - **Excel/CSV files** — As structured data sources
 
 ---
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## 🙌 Acknowledgments
+
+- Tata Neu Learning & Development team
+- Power BI Community for DAX and visualization best practices
+
+---
