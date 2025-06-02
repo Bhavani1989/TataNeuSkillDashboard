@@ -1,0 +1,46 @@
+Product_ID,Category,SubCategory,Product_Name
+PROD-FUR-TAB-DIN,Furniture,Tables,Dining Table
+PROD-TEC-CAM-MIR,Technology,Cameras,Mirrorless Camera
+PROD-TEC-ACC-KEY,Technology,Accessories,Keyboard
+PROD-OFF-BIN-RIN,Office Supplies,Binders,Ring Binder
+PROD-FUR-CHA-ACC,Furniture,Chairs,Accent Chair
+PROD-TEC-OFF-FAX,Technology,Office Machines,Fax Machine
+PROD-OFF-PHO-TAB,Office Supplies,Phones,Tablet
+PROD-TEC-CAM-ACT,Technology,Cameras,Action Camera
+PROD-TEC-OFF-PRI,Technology,Office Machines,Printer
+PROD-FUR-TAB-CON,Furniture,Tables,Console Table
+PROD-TEC-CAM-DIG,Technology,Cameras,Digital Camera
+PROD-OFF-PAP-STI,Office Supplies,Paper,Sticky Notes
+PROD-FUR-STO-DRA,Furniture,Storage,Drawer
+PROD-TEC-CAM-WEB,Technology,Cameras,Webcam
+PROD-OFF-BIN-ZIP,Office Supplies,Binders,Zipper Binder
+PROD-FUR-CHA-OFF,Furniture,Chairs,Office Chair
+PROD-FUR-CHA-REC,Furniture,Chairs,Recliner
+PROD-OFF-PHO-OFF,Office Supplies,Phones,Office Phone
+PROD-TEC-OFF-SCA,Technology,Office Machines,Scanner
+PROD-FUR-STO-CAB,Furniture,Storage,Cabinet
+PROD-FUR-STO-WAR,Furniture,Storage,Wardrobe
+PROD-OFF-PAP-SKE,Office Supplies,Paper,Sketchpad
+PROD-OFF-BIN-PRE,Office Supplies,Binders,Presentation Binder
+PROD-TEC-ACC-USB,Technology,Accessories,USB Hub
+PROD-OFF-PHO-SMA,Office Supplies,Phones,Smartphone
+PROD-FUR-STO-SHO,Furniture,Storage,Shoe Rack
+PROD-OFF-PHO-HEA,Office Supplies,Phones,Headset
+PROD-TEC-ACC-CHA,Technology,Accessories,Charging Cable
+PROD-OFF-PAP-NOT,Office Supplies,Paper,Notebook
+PROD-OFF-BIN-POR,Office Supplies,Binders,Portfolio Binder
+PROD-FUR-CHA-ARM,Furniture,Chairs,Armchair
+PROD-OFF-PAP-PRI,Office Supplies,Paper,Printer Paper
+PROD-OFF-PAP-POS,Office Supplies,Paper,Postcards
+PROD-FUR-TAB-DES,Furniture,Tables,Desk
+PROD-FUR-CHA-DIN,Furniture,Chairs,Dining Chair
+PROD-OFF-BIN-CLI,Office Supplies,Binders,Clip Binder
+PROD-FUR-TAB-COF,Furniture,Tables,Coffee Table
+PROD-TEC-OFF-COP,Technology,Office Machines,Copier
+PROD-TEC-ACC-LAP,Technology,Accessories,Laptop Bag
+PROD-TEC-CAM-SEC,Technology,Cameras,Security Camera
+PROD-OFF-PHO-COR,Office Supplies,Phones,Cordless Phone
+PROD-FUR-TAB-SID,Furniture,Tables,Side Table
+PROD-TEC-ACC-MOU,Technology,Accessories,Mouse
+PROD-TEC-OFF-LAB,Technology,Office Machines,Label Maker
+PROD-FUR-STO-BOO,Furniture,Storage,Bookshelf
